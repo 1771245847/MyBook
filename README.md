@@ -4,8 +4,9 @@
   
 Legado / 开源阅读
 
-阅读App 2.0下载 https://github.com/gedoor/MyBookshelf/releases
-阅读App 3.0下载 https://github.com/gedoor/legado/releases
+阅读App 2.0 https://github.com/gedoor/MyBookshelf/releases
+
+阅读App 3.0 https://github.com/gedoor/legado/releases
 
 源仓库: http://www.yckceo.com/
 
